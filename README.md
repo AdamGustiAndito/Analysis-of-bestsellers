@@ -1,4 +1,4 @@
-# 📊 Analysis-of-bestsellers
+# 📊 Analysis of Bestsellers
 **SQL Proyek Final Data Analyst TripleTen**
 
 ## 📌 Deskripsi
